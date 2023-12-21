@@ -35,7 +35,6 @@ D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\bin\Debug\
 D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\bin\Debug\net6.0-windows\PomodoroTimerApp.runtimeconfig.json
 D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\bin\Debug\net6.0-windows\PomodoroTimerApp.dll
 D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\bin\Debug\net6.0-windows\PomodoroTimerApp.pdb
-D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\obj\Debug\net6.0-windows\PomodoroTimerApp.Form1.resources
 D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\obj\Debug\net6.0-windows\PomodoroTimerApp.csproj.GenerateResource.cache
 D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\obj\Debug\net6.0-windows\PomodoroTimerApp.GeneratedMSBuildEditorConfig.editorconfig
 D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\obj\Debug\net6.0-windows\PomodoroTimerApp.AssemblyInfoInputs.cache
@@ -46,3 +45,4 @@ D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\obj\Debug\
 D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\obj\Debug\net6.0-windows\PomodoroTimerApp.pdb
 D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\obj\Debug\net6.0-windows\PomodoroTimerApp.genruntimeconfig.cache
 D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\obj\Debug\net6.0-windows\ref\PomodoroTimerApp.dll
+D:\Programming\Pet_project\WinForms\PomodoroTimerApp\PomodoroTimerApp\obj\Debug\net6.0-windows\PomodoroTimerApp.PomoInitD.resources

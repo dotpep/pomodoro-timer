@@ -1,25 +1,33 @@
 # Pomodoro Timer App
 
-![Pomodoro Timer App](app-screenshot.png)
+![Pomodoro Timer App](app_demo.png)
 
 ## Description
 
 The Pomodoro Timer App is a simple Windows Forms application written in C# that helps users manage their work and break intervals using the Pomodoro Technique.
 
+Pomodoro technique that improve your productivity, concentration and attention to completing tasks.
+
 ## Features
 
-- Set customizable work and break durations.
-- Start, pause, skip, and end sessions.
-- Visual and textual feedback on the current session status.
+- Start, pause, skip, and end sessions buttons.
+- Textual feedback on the current session status.
 - Track the number of completed iterations.
+- Sound notification when pomodoro change status work/rest.
 
-- Work Pomodoro - 25 minutes
-- Rest Pomodoro - 5 minutes
+- Work Pomodoro - 25 minutes.
+- Rest Pomodoro - 5 minutes.
 
 ## To Do
 
-- [ ] Design the graphical interface for the application.
+- [ ] Implement setting customizable work and break durations.
+- [ ] Design GUI, Timer, View mode for application.
 - [ ] Implement a long break after every 8 iterations.
+- [ ] White noise background sound.
+- [ ] First click start and Continue/Stop button implementation.
+- [ ] Add text to Focus Note/Task status.
+- [ ] Increment and Decrement time of Pomodoro
+- [ ] Features that pin pomodoro windows to top of screen with one click.
 
 ## Getting Started
 
@@ -36,12 +44,12 @@ Start exe file: `PomodoroTimerApp.exe`
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/PomodoroTimerApp.git
+    git clone https://github.com/dotpep/pomodoro-winforms.git
     ```
 
-2. Open the project in Visual Studio. (project solution: `PomodoroTimerApp.sln`)
+2. Open the project in Visual Studio (project solution: `PomodoroTimerApp.sln`).
 
-3. Build and run the application.
+3. Build and run the application (CTRL + F5, in Visual Studio).
 
 ## Usage
 

@@ -6,6 +6,11 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>bin\Debug\net6.0-windows\pomo.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0-windows\pomo.ico" />
+  </ItemGroup>
 
 </Project>
