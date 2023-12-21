@@ -27,7 +27,7 @@ namespace PomodoroTimerApp
             timerPomodoro.Tick += TimerPomodoro_Tick;
 
             // sound path: PomodoroTimerApp\bin\Debug\net6.0-windows\sound.wav
-            string soundFileName = "sound.wav";
+            string soundFileName = "D:\\Programming\\Pet_project\\WinForms\\PomodoroTimerApp\\PomodoroTimerApp\\source\\sound.wav";
             notifySoundPlayer = InitializeSoundPlayer(soundFileName);
 
             UpdateTimerDisplay();

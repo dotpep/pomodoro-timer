@@ -8,6 +8,17 @@ The Pomodoro Timer App is a simple Windows Forms application written in C# that 
 
 Pomodoro technique that improve your productivity, concentration and attention to completing tasks.
 
+## Release
+
+**You can download Pomodoro Timer App Installer here:**
+
+- [Just click me, and you start install Pomodoro Timer Desktop Application (zip/msi&exe)](https://github.com/dotpep/pomodoro-winforms/files/13745629/Release_v1.1_Installer_PomodoroTimerApp.zip)
+*Enjou your flow, and control your attention and entiry life.*
+
+**Release Secion:**
+
+- [PomodoroTimer v1.1.0](https://github.com/dotpep/pomodoro-winforms/releases/tag/v1.1.0)
+
 ## Features
 
 - Start, pause, skip, and end sessions buttons.
@@ -38,17 +49,13 @@ Pomodoro technique that improve your productivity, concentration and attention t
 
 ### Installation
 
-Executable file path: `PomodoroTimerApp\bin\Debug\net6.0-windows\PomodoroTimerApp.exe`
-Start exe file: `PomodoroTimerApp.exe`
-
 1. Clone the repository:
 
     ```bash
     git clone https://github.com/dotpep/pomodoro-winforms.git
     ```
 
-2. Open the project in Visual Studio (project solution: `PomodoroTimerApp.sln`).
-
+2. Open the project in Visual Studio (project solution: `PomodoroTimerApp\PomodoroTimerApp.sln`).
 3. Build and run the application (CTRL + F5, in Visual Studio).
 
 ## Usage
@@ -68,4 +75,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+- [Pomodoro Technique Wiki](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+
+- About Pomodoro Tecnique:
+![About Pomodoro Tecnique](pomodoro_technique.png)

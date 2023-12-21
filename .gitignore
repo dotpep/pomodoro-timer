@@ -1,6 +1,8 @@
-*.suo
+*.suo
 *.user
 *.suo
 *.user
 *.vscode/
-.vs
+.vs
+PomodoroTimerApp\bin
+PomodoroTimerApp\.vs
